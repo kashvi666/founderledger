@@ -220,3 +220,7 @@ This project demonstrates:
 3. Database modeling
 4. AI integration
 5. Real-world debugging and system design
+
+# Preview
+ <img width="357" height="277" alt="image" src="https://github.com/user-attachments/assets/f1898cab-a3c8-4348-b493-f8c28fe52f9b" />
+
